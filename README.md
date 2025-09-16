@@ -141,7 +141,7 @@ plt.show()
 # OUTPUT:
 
 
-<img width="477" height="423" alt="image" src="https://github.com/user-attachments/assets/8e8fd311-2d2e-463e-acd8-c040cc66778f" />
+<img width="475" height="530" alt="image" src="https://github.com/user-attachments/assets/3697b523-b3f3-48bf-b385-5f034fd85d5b" />
 
 <img width="947" height="536" alt="image" src="https://github.com/user-attachments/assets/7770d50e-f870-49f4-b955-7c29d9146b96" />
 
