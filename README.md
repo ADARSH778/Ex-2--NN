@@ -1,10 +1,12 @@
-<H3>Name</H3>
-<H3>Register no.</H3>
-<H3>Date</H3>
+<H3>Name :ADARSH CHOWDARY R</H3>
+<H3>Register no: 212223040166</H3>
+<H3>Date : 16/09/2025</H3>
 <H3>Experiment No. 2 </H3>
-## Implementation of Perceptron for Binary Classification
-# AIM:
-To implement a perceptron for classification using Python<BR>
+<H3>
+Implementation of Perceptron for Binary Classification
+<H3>
+AIM:<br><br>
+To implement a perceptron for classification using Python<BR></H3> 
 
 # EQUIPMENTS REQUIRED:
 Hardware – PCs
@@ -49,11 +51,12 @@ STEP 9:For ‘N ‘ iterations ,do the following:<BR>
 STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 # PROGRAM:
-    ''' Insert your code here '''
+```python
+```
 
 # OUTPUT:
 
-    ''' Show your result '''
+
 
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
